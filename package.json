@@ -2,7 +2,7 @@
   "name": "leandro-rovagnoli-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leandrorovagnoli.dev",
+  "homepage": "https://leandrorovagnoli.github.io/personal-react-site/",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
