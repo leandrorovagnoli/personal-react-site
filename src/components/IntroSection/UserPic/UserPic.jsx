@@ -4,8 +4,8 @@ import './styles.css';
 
 const UserPic = (props) => {
     return (
-        <div class="pic-container center-middle">
-            <img src={props.image} alt='pro-pic' class="profile-pic" />
+        <div className="pic-container center-middle">
+            <img src={props.image} alt='pro-pic' className="profile-pic" />
         </div>
     )
 }
