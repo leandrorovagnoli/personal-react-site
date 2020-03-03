@@ -25,10 +25,13 @@
 }
 
 .icon {
-    font-size: 1.6em;
-    color: inherit;
+    font-size: 2.4em;
+    color: #3f626d;
     text-decoration: none;
     margin: 0 5px;
+}
+.icon:hover {
+    color: #006699;
 }
 
 .center {
