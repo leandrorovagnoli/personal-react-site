@@ -35,5 +35,9 @@
 }
 
 .btn-link:focus {
-    outline: none
+    outline: none;
+}
+
+.btn-link{
+    margin-left: 10px;
 }

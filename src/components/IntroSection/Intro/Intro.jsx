@@ -16,9 +16,13 @@ export default (props) =>
                 </h3>
             </div>
             <div className="center-middle btn-container">
-                <a className="btn-link" href={props.resumeLink}
+                <a className="btn-link" href={props.resumeEnglishLink}
                     target="_blank" rel="noopener noreferrer">
-                    <button className="download-button font-mono">Download Resume</button>
+                    <button className="download-button font-mono">Download Resume (English)</button>
+                </a>
+                <a className="btn-link" href={props.resumePortugueseLink}
+                    target="_blank" rel="noopener noreferrer">
+                    <button className="download-button font-mono">Download Resume (Portuguese)</button>
                 </a>
             </div>
         </React.Fragment>
