@@ -3,7 +3,7 @@ import image from './assets/user.jpg'
 export default {
     pic: image,
     name: 'Leandro Rovagnoli',
-    titles: ['Software Developer', 'Web Dev', 'Agilist', 'SEO and Automation Enthusiast'],
+    titles: ['Software Engineer', 'Web Dev', 'Agilist', 'SEO and Automation Enthusiast'],
     socialProfiles: {
         github: 'https://github.com/leandrorovagnoli',
         linkedin: 'https://linkedin.com/in/leandro-rovagnoli',
@@ -29,8 +29,8 @@ export default {
         languages: ['C#', 'Javascript', 'HTML', 'CSS'],
         stack1: ['ASP.NET', '.NET CORE', 'MVC', 'Entity Framework'],
         stack2: ['NodeJS', 'React', 'React Native', 'Expo'],
-        deployment: ['Heroku', 'Amazon Cloud EC2'],
-        versionControl: ['GIT', 'TortoiseSVN'],
+        deployment: ['Heroku', 'SOLID'],
+        versionControl: ['GIT', 'TFS', 'TortoiseSVN'],
         methodologies: ['SCRUM', 'Kanban', 'XP']
     }
 }
